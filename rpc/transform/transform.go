@@ -8,10 +8,10 @@ import (
 	"fmt"
 	"log"
 
-	"hello-shorturl-go/rpc/transform/internal/config"
-	"hello-shorturl-go/rpc/transform/internal/server"
-	"hello-shorturl-go/rpc/transform/internal/svc"
-	transform "hello-shorturl-go/rpc/transform/pb"
+	"shorturl/rpc/transform/internal/config"
+	"shorturl/rpc/transform/internal/server"
+	"shorturl/rpc/transform/internal/svc"
+	transform "shorturl/rpc/transform/pb"
 
 	"github.com/tal-tech/go-zero/core/conf"
 	"github.com/tal-tech/go-zero/rpcx"

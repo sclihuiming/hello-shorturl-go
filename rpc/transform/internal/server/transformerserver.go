@@ -6,9 +6,9 @@ package server
 import (
 	"context"
 
-	"hello-shorturl-go/rpc/transform/internal/logic"
-	"hello-shorturl-go/rpc/transform/internal/svc"
-	transform "hello-shorturl-go/rpc/transform/pb"
+	"shorturl/rpc/transform/internal/logic"
+	"shorturl/rpc/transform/internal/svc"
+	transform "shorturl/rpc/transform/pb"
 )
 
 type TransformerServer struct {

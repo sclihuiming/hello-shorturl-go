@@ -1,6 +1,6 @@
 package svc
 
-import "hello-shorturl-go/api/internal/config"
+import "shorturl/api/internal/config"
 
 type ServiceContext struct {
 	Config config.Config

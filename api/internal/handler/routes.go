@@ -4,7 +4,7 @@ package handler
 import (
 	"net/http"
 
-	"hello-shorturl-go/api/internal/svc"
+	"shorturl/api/internal/svc"
 
 	"github.com/tal-tech/go-zero/rest"
 )

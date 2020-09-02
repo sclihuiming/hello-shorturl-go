@@ -3,9 +3,9 @@ package main
 import (
 	"flag"
 
-	"hello-shorturl-go/api/internal/config"
-	"hello-shorturl-go/api/internal/handler"
-	"hello-shorturl-go/api/internal/svc"
+	"shorturl/api/internal/config"
+	"shorturl/api/internal/handler"
+	"shorturl/api/internal/svc"
 
 	"github.com/tal-tech/go-zero/core/conf"
 	"github.com/tal-tech/go-zero/rest"

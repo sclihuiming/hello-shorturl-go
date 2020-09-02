@@ -3,9 +3,9 @@ package handler
 import (
 	"net/http"
 
-	"hello-shorturl-go/api/internal/logic"
-	"hello-shorturl-go/api/internal/svc"
-	"hello-shorturl-go/api/internal/types"
+	"shorturl/api/internal/logic"
+	"shorturl/api/internal/svc"
+	"shorturl/api/internal/types"
 
 	"github.com/tal-tech/go-zero/rest/httpx"
 )
